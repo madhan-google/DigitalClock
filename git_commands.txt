@@ -1,0 +1,9 @@
+git add .\file.java
+git commit -m "comments" - commit file locally
+git push - to publish our file
+git pull - to get file from git
+git commit -am "commit" - commit all the changed file locally
+git config --global user.email "mailid"
+git config --global user.name "user name"
+git checkout -b "branch name" - create new branch
+git checkout branchname - to switch branch
